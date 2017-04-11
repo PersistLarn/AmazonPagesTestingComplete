@@ -5,8 +5,8 @@
     <classes>
       <class name="tests.TestPages">
         <methods>
-          <include name="TestHomePage"/>
           <include name="BeforeSuite"/>
+          <include name="TestSendSearchText1" invocation-numbers="0 1 2 3 4"/>
           <include name="AfterSuite"/>
         </methods>
       </class> <!-- tests.TestPages -->
