@@ -6,6 +6,10 @@ import java.util.Properties;
 
 import org.openqa.selenium.By;
 
+/* I don't need this file anymore, since the requirement
+ * changed. But I am still retaining this file if I want to
+ * come back and refer to this file for any future mapping.
+ */
 public class ElementsMap {
 	Properties properties;
 
